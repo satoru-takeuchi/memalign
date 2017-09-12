@@ -1,0 +1,2 @@
+# memalign
+allocate aligned memory
